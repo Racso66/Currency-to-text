@@ -1,8 +1,6 @@
 import java.util.Scanner;
-/* Student name: Oscar Wu
-   Student ID: V00876811
-   Assignment 4
-   File Name: MyCurrency.java
+/* Student name: Racso66
+   File Name: MyCurrencyExtra.java
    This code converts Double number value into it's Text String form.
    The text is just like how it is on a cheque
 */
